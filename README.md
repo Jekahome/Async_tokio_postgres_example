@@ -27,4 +27,4 @@ $ docker rm -f rust_job_queue
 
 [For type safety impl traite ToSql FromSql](https://github.com/sfackler/rust-postgres/blob/fc10985f9fdf0903893109bc951fb5891539bf97/postgres-protocol/src/types/mod.rs#L97)
 
-[PostgresQL documentation](https://www.postgresql.org/docs/9.0/sql-listen.html)
+[PostgresQL documentation](https://postgrespro.ru/docs/postgresql/14/index)
