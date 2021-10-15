@@ -11,6 +11,9 @@ $ docker run --name rust_job_queue  -e POSTGRES_USER=rust -e POSTGRES_PASSWORD=j
 # restart docker job
 $ docker start rust_job_queue
 
+# migration
+$ cargo run --bin migrations
+
 # remove
 $ docker rm -f rust_job_queue
 ```
