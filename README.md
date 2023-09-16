@@ -19,6 +19,9 @@ $ docker rm -f rust_job_queue
 ```
 
 ## Links
+
+[RESTful API in Sync & Async Rust](https://github.com/Jekshmek/rust-blog/blob/master/posts/restful-api-in-sync-and-async-rust.md)
+
 [Example tokio-postgres test](https://github.com/sfackler/rust-postgres/tree/master/tokio-postgres/tests/test)
 
 [Types INT4,VARCHAR ...](https://github.com/sfackler/rust-postgres/blob/d45461614aca87022c17a2cc26b22325bf161fa5/postgres-types/src/lib.rs#L375)
